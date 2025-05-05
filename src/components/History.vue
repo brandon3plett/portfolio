@@ -11,8 +11,10 @@
       (yeah, THAT long ago). I would dabble with creating sites with just HTML, CSS and drag and
       drop. Many years later I would find myself customizing MySpace accounts with just HTML and
       inline CSS. In 2018, I would come back to what I loved by enrolling in a 6 month coding
-      bootcamp at Case Western Reserve located in Cleveland, OH under the Trilogy Education program
-      (now 2U).
+      bootcamp at
+      <a href="https://case.edu/" target="_blank" rel="noopener">Case Western Reserve</a> located in
+      Cleveland, OH under the Trilogy Education program (now
+      <a href="https://2u.com/" target="_blank" rel="noopener">2U</a>).
     </p>
 
     <p>
