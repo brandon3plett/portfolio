@@ -91,7 +91,7 @@ import IconNode from './icons/IconNode.vue'
     display: flex;
     flex-direction: column;
     align-items: center;
-    row-gap: 6px;
+    row-gap: 9px;
 
     svg {
       width: 80px;
