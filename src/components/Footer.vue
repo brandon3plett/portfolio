@@ -21,6 +21,11 @@ import IconGitHub from './icons/IconGitHub.vue'
         </a>
       </li>
       <li>
+        <a href="https://github.com/brandon3plett" class="social-media-icon" target="_blank">
+          <IconGitHub />
+        </a>
+      </li>
+      <li>
         <a
           href="mailto:brandon3plett@gmail.com"
           class="email-icon social-media-icon"
@@ -29,14 +34,9 @@ import IconGitHub from './icons/IconGitHub.vue'
           <IconEmail />
         </a>
       </li>
-      <li>
-        <a href="https://github.com/brandon3plett" class="social-media-icon" target="_blank">
-          <IconGitHub />
-        </a>
-      </li>
     </ul>
 
-    <p>&copy; Brandon Triplett <span id="footer-year"></span></p>
+    <p>Brandon Triplett &copy; <span id="footer-year"></span></p>
 
     <p>Built with Vue.js</p>
 
@@ -62,8 +62,6 @@ import IconGitHub from './icons/IconGitHub.vue'
     align-items: flex-end;
 
     .social-media-icon {
-      // vertical-align: baseline;
-
       svg,
       path {
         fill: #fff;

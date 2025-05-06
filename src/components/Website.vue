@@ -33,7 +33,7 @@ const props = defineProps({
 .website-wrapper {
   width: 100%;
 
-  @media (min-width: 1024px) {
+  @media (min-width: 768px) {
     max-width: 355px;
   }
 
@@ -44,7 +44,7 @@ const props = defineProps({
   img {
     width: 100%;
 
-    @media (min-width: 1024px) {
+    @media (min-width: 768px) {
       max-width: 400px;
     }
   }
